@@ -1,0 +1,44 @@
+[
+	{
+		"id": 1,
+		"title":"Ditto",
+		"artist":"NewJeans",
+		"songTime":"03:06"
+	},
+	{
+		"id": 2,
+		"title":"VIBE (Feat. jimin of BTS)",
+		"artist":"\ud0dc\uc591",
+		"songTime":"02:56"
+	},
+	{
+		"id": 3,
+		"title":"Nxde",
+		"artist":"(\uc5ec\uc790)\uc544\uc774\ub4e4",
+		"songTime":"02:58"
+	},
+	{
+		"id": 4,
+		"title":"\uc090\uc090",
+		"artist":"\uc544\uc774\uc720 (IU)",
+		"songTime":"03:15"
+	},
+	{
+		"id": 5,
+		"title":"\uc9c4\uc2ec\uc774\uc5c8\ub358 \uc0ac\ub78c\ub9cc \ubc14\ubcf4\uac00 \ub3fc",
+		"artist":"\uad8c\uc9c4\uc544",
+		"songTime":"04:26"
+	},
+	{
+		"id": 6,
+		"title":"\ub108, \ub108",
+		"artist":"\uc2a4\ud2b8\ub808\uc774 (The Stray)",
+		"songTime":"04:46"
+	},
+	{
+		"id": 7,
+		"title":"Lay Low",
+		"artist":"\uc720\uc544 (\uc624\ub9c8\uc774\uac78)",
+		"songTime":"02:49"
+	}
+]

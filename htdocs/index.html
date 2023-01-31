@@ -1,0 +1,30 @@
+<!doctype html>
+<html lang="ko">
+<head>
+	<meta charset="UTF-8">
+	<meta name="viewport"
+		  content="width=device-width, user-scalable=no, initial-scale=1.0, maximum-scale=1.0, minimum-scale=1.0">
+	<meta http-equiv="X-UA-Compatible" content="ie=edge">
+	<script src="javascript/index.js" defer></script>
+	<script src="https://code.jquery.com/jquery-3.5.1.js"></script>
+	<script type="text/javascript" src="https://code.jquery.com/ui/1.12.1/jquery-ui.js" ></script>
+	<link href="https://code.jquery.com/ui/1.12.1/themes/base/jquery-ui.css" rel="stylesheet" type="text/css">
+	<link rel="stylesheet" href="style/index.css">
+	<title>플레이 리스트</title>
+</head>
+<body>
+	<div id="view">
+		<div class="allMusicList">
+			<ul>
+			</ul>
+		</div>
+		<div class="myMusicList">
+			<div class="search">
+				<input id="search" type="text" oninput="searchplaylist()" placeholder="Search">
+			</div>
+			<ul class="sortable">
+			</ul>
+		</div>
+	</div>
+</body>
+</html>

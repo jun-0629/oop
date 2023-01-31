@@ -1,0 +1,12 @@
+version: '3.7'
+
+services:
+  ws:
+    build: .
+    volumes:
+      - ../htdocs:/var/www/html
+      - ./apache2/000-default.conf:/etc/apache2/sites-available/000-default.conf
+      - ./apache2/apache2.conf:/etc/apache2/apache2.conf
+    ports:
+      - "1010:80"
+    restart: always
